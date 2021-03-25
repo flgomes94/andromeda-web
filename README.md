@@ -30,5 +30,8 @@ Esse projeto foi criado após uma longa indecisão de qual filme assistir. Entã
 4. Run yarn install
 5. Run yarn start
 
-## Figma UI Development
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fjwyd2safjXQV1cUpjfU9FY%2FAndromeda%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+## Site
+
+<p align="center">
+<img alt="Site" width="100%" src="https://github.com/flgomes94/andromeda-web/blob/main/imgs/allpage.png?raw=true">
+</p>
